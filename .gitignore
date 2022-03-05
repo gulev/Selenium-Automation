@@ -1,0 +1,7 @@
+#IDEA
+.idea/*
+target/
+*.class
+demoApplication.log
+ExtentReportResults.html
+Automationpractice.iml
